@@ -1,4 +1,4 @@
-get-laurelyanny
+function get-laurelyanny
 {
     Add-Type -AssemblyName System.speech
     $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer
