@@ -13,3 +13,4 @@ function get-laurelyanny
         $speak.Speak('Yanny')   
     }
 }
+get-laurelyanny
